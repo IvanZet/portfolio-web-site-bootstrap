@@ -1,9 +1,10 @@
 /*Common*/
 body {
 	font-family: Corbel, Calibri, sans-serif;
+	padding-top: 5rem;
 }
-body {
-  padding-top: 5rem;
+.row {
+	/*max-width: 46rem;*/
 }
 .starter-template {
   padding: 3rem 1.5rem;
