@@ -1,0 +1,30 @@
+/*Common*/
+body {
+	font-family: Corbel, Calibri, sans-serif;
+}
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.hello {
+	font-family: Inconsolata, sans-serif;
+}
+a {
+	
+	color: black;
+}
+a:hover {
+	text-decoration: none;
+	color: black;
+}
+footer {
+	margin-left: 1rem;
+}
+
+/*resume.html*/
+.cv_picture {
+	width: 10em;
+}
